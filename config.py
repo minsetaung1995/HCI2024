@@ -1,0 +1,2 @@
+# config.py
+SPOONACULAR_API_KEY = '66c8aa3e391949179fa0d22af8d3d7ca'
